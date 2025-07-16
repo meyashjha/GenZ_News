@@ -1,0 +1,22 @@
+{
+  "name": "crypto_news",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.23.1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.0"
+  }
+}

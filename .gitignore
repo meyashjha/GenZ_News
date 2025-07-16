@@ -1,0 +1,5 @@
+.env
+api-key.txt
+node_modules/
+.parcel-cache/
+dist/

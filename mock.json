@@ -1,0 +1,184 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "developer",
+    "total": 1941,
+    "startIndex": 1,
+    "pageSize": 10,
+    "currentPage": 1,
+    "pages": 195,
+    "orderBy": "newest",
+    "results": [
+      {
+        "id": "culture/2025/jul/12/juliet-stevenson-hugh-brody-gaza-palestine",
+        "type": "article",
+        "sectionId": "culture",
+        "sectionName": "Culture",
+        "webPublicationDate": "2025-07-12T12:28:41Z",
+        "webTitle": "Artist or activist? For Juliet Stevenson and her husband, Gaza leaves them with no choice",
+        "webUrl": "https://www.theguardian.com/culture/2025/jul/12/juliet-stevenson-hugh-brody-gaza-palestine",
+        "apiUrl": "https://content.guardianapis.com/culture/2025/jul/12/juliet-stevenson-hugh-brody-gaza-palestine",
+        "fields": {
+          "trailText": "Film-maker Hugh Brody hopes to honour his mother, a Holocaust survivor, with a show of solidarity for Palestine",
+          "thumbnail": "https://media.guim.co.uk/79413db4540b2cb0c55fb731ad47d367fbda5013/922_202_4877_3902/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      },
+      {
+        "id": "culture/2025/jun/29/andy-lee-10-questions-illegal-to-taxidermy-a-human-in-australia",
+        "type": "article",
+        "sectionId": "culture",
+        "sectionName": "Culture",
+        "webPublicationDate": "2025-06-29T00:00:37Z",
+        "webTitle": "Andy Lee: ‘It’s illegal to taxidermy a human in Australia. I know because I looked into it’",
+        "webUrl": "https://www.theguardian.com/culture/2025/jun/29/andy-lee-10-questions-illegal-to-taxidermy-a-human-in-australia",
+        "apiUrl": "https://content.guardianapis.com/culture/2025/jun/29/andy-lee-10-questions-illegal-to-taxidermy-a-human-in-australia",
+        "fields": {
+          "trailText": "The TV presenter and children’s writer on his accidental bestseller, his most controversial opinion and the prank he used to play on paparazzi",
+          "thumbnail": "https://media.guim.co.uk/4e7ae53bccb1feac7dd6a69ae746cdfe94bbd516/203_0_1125_900/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      },
+      {
+        "id": "culture/2025/jun/19/iolanthe-the-10-funniest-things-i-have-ever-seen-on-the-internet",
+        "type": "article",
+        "sectionId": "culture",
+        "sectionName": "Culture",
+        "webPublicationDate": "2025-06-18T15:00:52Z",
+        "webTitle": "Iolanthe: the 10 funniest things I have ever seen (on the internet)",
+        "webUrl": "https://www.theguardian.com/culture/2025/jun/19/iolanthe-the-10-funniest-things-i-have-ever-seen-on-the-internet",
+        "apiUrl": "https://content.guardianapis.com/culture/2025/jun/19/iolanthe-the-10-funniest-things-i-have-ever-seen-on-the-internet",
+        "fields": {
+          "trailText": "The actor and writer shares her trove of online clips – including two Big Brother meltdowns",
+          "thumbnail": "https://media.guim.co.uk/9fb0ce6032fa9c496d7c14c7f7a027e27ca69185/0_0_3226_2581/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      },
+      {
+        "id": "culture/2025/jun/16/eric-cantona-and-ella-toone-help-meld-football-and-art-for-manchester-festival",
+        "type": "article",
+        "sectionId": "culture",
+        "sectionName": "Culture",
+        "webPublicationDate": "2025-06-16T04:00:39Z",
+        "webTitle": "Eric Cantona and Ella Toone help meld football and art for Manchester festival",
+        "webUrl": "https://www.theguardian.com/culture/2025/jun/16/eric-cantona-and-ella-toone-help-meld-football-and-art-for-manchester-festival",
+        "apiUrl": "https://content.guardianapis.com/culture/2025/jun/16/eric-cantona-and-ella-toone-help-meld-football-and-art-for-manchester-festival",
+        "fields": {
+          "trailText": "The two players are among those collaborating with artists to create the Football City, Art United exhibition",
+          "thumbnail": "https://media.guim.co.uk/332c205cd22feca404b2d14efd56c065f8b4090b/273_0_1953_1563/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      },
+      {
+        "id": "culture/2025/jun/15/adam-hills-i-knew-i-should-have-gone-to-the-kings-birthday-but-i-really-wanted-to-go-to-rugby-training",
+        "type": "article",
+        "sectionId": "culture",
+        "sectionName": "Culture",
+        "webPublicationDate": "2025-06-14T20:00:00Z",
+        "webTitle": "Adam Hills: ‘I knew I should have gone to the King’s birthday but I really wanted to go to rugby training’",
+        "webUrl": "https://www.theguardian.com/culture/2025/jun/15/adam-hills-i-knew-i-should-have-gone-to-the-kings-birthday-but-i-really-wanted-to-go-to-rugby-training",
+        "apiUrl": "https://content.guardianapis.com/culture/2025/jun/15/adam-hills-i-knew-i-should-have-gone-to-the-kings-birthday-but-i-really-wanted-to-go-to-rugby-training",
+        "fields": {
+          "trailText": "The comedian and TV host on rugby league, his love of Weird Al Yankovicand getting mistaken for Wil Anderson",
+          "thumbnail": "https://media.guim.co.uk/581b4d16f3dacb47014d0599148eaa3ca208e1d4/0_0_2500_2000/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      },
+      {
+        "id": "culture/2025/jun/10/celebrities-la-ice-raids",
+        "type": "article",
+        "sectionId": "culture",
+        "sectionName": "Culture",
+        "webPublicationDate": "2025-06-10T15:06:57Z",
+        "webTitle": "‘Authoritarian and un-American’: celebrities outraged by Trump’s response to LA Ice protests",
+        "webUrl": "https://www.theguardian.com/culture/2025/jun/10/celebrities-la-ice-raids",
+        "apiUrl": "https://content.guardianapis.com/culture/2025/jun/10/celebrities-la-ice-raids",
+        "fields": {
+          "trailText": "Mark Ruffalo, Kehlani, Pedro Pascal and Doechii among figures reacting to president’s mobilisation of military",
+          "thumbnail": "https://media.guim.co.uk/5c0e7caa7e98abab21268c4b7e4de32b57f77d14/0_0_5906_4724/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      },
+      {
+        "id": "culture/2025/jun/06/late-night-roundup-trump-v-musk",
+        "type": "article",
+        "sectionId": "culture",
+        "sectionName": "Culture",
+        "webPublicationDate": "2025-06-06T15:23:15Z",
+        "webTitle": "Stephen Colbert on Trump v Musk: ‘Like Real Housewives on the girls’ trip’",
+        "webUrl": "https://www.theguardian.com/culture/2025/jun/06/late-night-roundup-trump-v-musk",
+        "apiUrl": "https://content.guardianapis.com/culture/2025/jun/06/late-night-roundup-trump-v-musk",
+        "fields": {
+          "trailText": "Late-night hosts discuss the social media war of words between Donald Trump and former friend Elon Musk",
+          "thumbnail": "https://media.guim.co.uk/751f6247bf3d2582e3671cc1b5911b53ef9b1ecf/432_115_1985_1588/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      },
+      {
+        "id": "culture/2025/jun/06/explain-it-to-me-quickly-what-is-aura-farming-and-is-it-cool-or-cringe",
+        "type": "article",
+        "sectionId": "culture",
+        "sectionName": "Culture",
+        "webPublicationDate": "2025-06-06T04:18:46Z",
+        "webTitle": "Explain it to me quickly: What is aura farming, and is it cool or cringe?",
+        "webUrl": "https://www.theguardian.com/culture/2025/jun/06/explain-it-to-me-quickly-what-is-aura-farming-and-is-it-cool-or-cringe",
+        "apiUrl": "https://content.guardianapis.com/culture/2025/jun/06/explain-it-to-me-quickly-what-is-aura-farming-and-is-it-cool-or-cringe",
+        "fields": {
+          "trailText": "\u003Cstrong\u003EBertin Huynh \u003C/strong\u003Eand \u003Cstrong\u003ELuca Ittimani \u003C/strong\u003Eexplain the viral term – which involves neither chakras nor tractors – to \u003Cstrong\u003EAlyx Gorman\u003C/strong\u003E",
+          "thumbnail": "https://media.guim.co.uk/a2e6c7033c30054b383a4151f23ace924e3257fc/0_60_2022_1618/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      },
+      {
+        "id": "culture/2025/jun/05/tiktok-furore-luke-bateman-book-deal",
+        "type": "article",
+        "sectionId": "culture",
+        "sectionName": "Culture",
+        "webPublicationDate": "2025-06-05T07:51:36Z",
+        "webTitle": "Footballer, Bachelor star … fantasy writer? The TikTok furore over Luke Bateman’s book deal",
+        "webUrl": "https://www.theguardian.com/culture/2025/jun/05/tiktok-furore-luke-bateman-book-deal",
+        "apiUrl": "https://content.guardianapis.com/culture/2025/jun/05/tiktok-furore-luke-bateman-book-deal",
+        "fields": {
+          "trailText": "His book is expected to be about a boy battling hardships in a magical world, but the deal has sparked real world debate about power and privilege",
+          "thumbnail": "https://media.guim.co.uk/35b379531d362c669fdd0c98e3a71ae3c687aa01/1781_181_1939_1552/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      },
+      {
+        "id": "culture/2025/jun/01/demi-adejuyigbe-everything-i-do-is-because-of-my-love-for-oceans-eleven",
+        "type": "article",
+        "sectionId": "culture",
+        "sectionName": "Culture",
+        "webPublicationDate": "2025-06-01T00:00:02Z",
+        "webTitle": "Demi Adejuyigbe: ‘Everything I do is because of my love for Ocean’s Eleven’",
+        "webUrl": "https://www.theguardian.com/culture/2025/jun/01/demi-adejuyigbe-everything-i-do-is-because-of-my-love-for-oceans-eleven",
+        "apiUrl": "https://content.guardianapis.com/culture/2025/jun/01/demi-adejuyigbe-everything-i-do-is-because-of-my-love-for-oceans-eleven",
+        "fields": {
+          "trailText": "The comedian and TV writer on a cringeworthy moment with Charli xcx, his viral September videos and why we should forgive Don Cheadle’s cockney accent",
+          "thumbnail": "https://media.guim.co.uk/ef40571d90b349a200ffe0772829328241ef7885/0_39_998_798/500.jpg"
+        },
+        "isHosted": false,
+        "pillarId": "pillar/arts",
+        "pillarName": "Arts"
+      }
+    ]
+  }
+} 
