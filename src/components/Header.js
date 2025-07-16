@@ -35,7 +35,7 @@ const Header = ({ setNewsCategory }) => {
   return (
     <div className="header">
       <div className="logo-container">
-        <a href='/'>
+        <a href='https://meyashjha.github.io/GenZ_News/'>
         <img className="logo" src={LOGO_URL} alt="Crypto News Logo" />
       </a>
       </div>
