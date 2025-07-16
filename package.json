@@ -3,12 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel src/index.html",
-<<<<<<< HEAD
-    "build": "parcel build src/index.html --public-url ./",
-=======
-    "build": "parcel build src/index.html --cache-dir .parcel-cache --public-url ./"
-,
->>>>>>> ceb251bf4571789b55e37ae924a45e75ed29f8db
+    "build": "parcel build src/index.html --cache-dir .parcel-cache --public-url ./",
     "test": "jest",
     "deploy": "gh-pages -d dist"
   },
